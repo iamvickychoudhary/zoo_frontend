@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@bootstrap-vue-next/nuxt": "^0.24.6",
+    "@nuxtjs/auth-next": "^5.0.0-1667386184.dfbbb54",
+    "@nuxtjs/axios": "^5.13.6",
+    "@vee-validate/zod": "^4.13.2",
+    "bootstrap": "^5.3.3",
+    "bootstrap-vue-next": "^0.24.6",
+    "date-fns": "^3.6.0",
+    "nuxt": "^3.12.3",
+    "vee-validate": "^4.13.2",
+    "vue": "latest",
+    "zod": "^3.23.8"
+  }
+}
